@@ -36,6 +36,8 @@ class App:
 
         for tam, nombre, tiempo in self.resultados:
             print(f"Tamano: {tam}, Algoritmo: {nombre}, Tiempo: {tiempo:.6f} segundos")
+        
+        self.graficar_resultados()
             
     def graficar_resultados(self):
     
@@ -61,3 +63,4 @@ class App:
 if __name__ == "__main__":
     app = App()
     app.main()
+    
