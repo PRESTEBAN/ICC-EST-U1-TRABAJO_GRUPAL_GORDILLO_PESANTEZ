@@ -65,7 +65,7 @@ Los métodos fueron ejecutados sobre arreglos aleatorios de los siguientes tama�
 
 ## Captura de Pantalla del Código en Ejecución
 
-![Ejecución por tamaños](assets/imagen2.png)
+![Ejecución por tamaños](assets/imagen2.jpeg)
 
 ---
 
