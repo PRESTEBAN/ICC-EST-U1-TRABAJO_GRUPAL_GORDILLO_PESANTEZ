@@ -56,9 +56,6 @@ Los métodos fueron ejecutados sobre arreglos aleatorios de los siguientes tama�
 
 ---
 
-## Gráfico Comparativo
-
-![Gráfico de comparación](figuras.png)
 
 - **Eje X:** Tamaño del arreglo  
 - **Eje Y:** Tiempo de ejecución en segundos  
@@ -68,7 +65,7 @@ Los métodos fueron ejecutados sobre arreglos aleatorios de los siguientes tama�
 
 ## Captura de Pantalla del Código en Ejecución
 
-![Ejecución por tamaños](figuras_tiempos.png)
+![Ejecución por tamaños](imagen2.png)
 
 ---
 
